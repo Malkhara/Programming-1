@@ -1,0 +1,6 @@
+CRATER ID    NAME         LATITUDE    LONGITUDE   DIAMETER (km)
+        1    Mead            12.50        57.00           268.7
+        9    Joliot-Curie    -1.70        62.40           100.9
+       14    Potanina        31.70        53.00            89.6
+       15    Bonnevie       -36.10       127.00            87.6
+       21    Boulanger      -26.60        99.30            73.7
