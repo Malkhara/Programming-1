@@ -8,4 +8,3 @@ Projects done with a partner, is stated in the code.
 3- Tip Calculator Program
 4- calculate the temperature of wind chill index
 5- play rock, paper, scissors
-=======================
